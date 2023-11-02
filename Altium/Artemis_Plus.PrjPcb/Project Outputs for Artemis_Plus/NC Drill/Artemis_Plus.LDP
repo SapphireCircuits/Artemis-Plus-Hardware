@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Jam\Desktop\projects\SDGD\Artemis_Plus\Altium Files\Imported Artemis_Plus.PrjPcb\Artemis_Plus.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=artemis_plus-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=L1(Top)_L2_Blind_Vias|DrillFile=artemis_plus-plated.tx3|DrillLayers=gtl,g1
+LayersSetName=L3_L4(Bot)_Blind_Vias|DrillFile=artemis_plus-plated.tx4|DrillLayers=g2,gbl

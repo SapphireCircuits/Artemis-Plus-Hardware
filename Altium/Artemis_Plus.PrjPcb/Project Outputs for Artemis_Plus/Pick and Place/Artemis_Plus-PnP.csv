@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\Jam\Desktop\projects\SDGD\Artemis_Plus\Altium Files\Imported Artemis_Plus.PrjPcb\Project Outputs for Artemis_Plus\Pick and Place\Artemis_Plus-PnP.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/11/23
+Time:       15:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"A1","RGFRA8010110A2T","TopLayer","ANT-2.4GHZ-8.0X1.0MM","13.7501","5.2500","270","Chip Antenna, 2.45Ghz, Smt Rohs Compliant: Yes"
+"C1","0.47uF","TopLayer","0402-TIGHT","2.3501","7.9500","180","Multilayer Ceramic Capacitor, 0.47 uF, 50 V, ± 2%, C0G (NP0), 0402 [1005 Metric]"
+"C2","4.7uF","TopLayer","0402-TIGHT","3.7501","2.4499","270","Multilayer Ceramic Capacitor, 4.7 uF, 10 V, ± 20%, X5R, 0402 [1005 Metric]"
+"C3","2.2uF","TopLayer","0402-TIGHT","2.3501","6.3501","180","Multilayer Ceramic Capacitor, 2.2 uF, 10 V, ± 10%, X5R, 0402 [1005 Metric]"
+"C4","1.0uF","TopLayer","0402-TIGHT","6.3501","1.1499","180","Multilayer Ceramic Capacitor, 1 uF, 6.3 V, ± 10%, X7R, 0402 [1005 Metric]"
+"C5","2.2uF","TopLayer","0402-TIGHT","4.5500","1.1499","180","Multilayer Ceramic Capacitor, 2.2 uF, 10 V, ± 10%, X5R, 0402 [1005 Metric]"
+"C6","6pF","TopLayer","0402-TIGHT","8.6500","1.1499","180","0402 6 pF 50 V ±0.5 pF Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor"
+"C7","6pF","TopLayer","0402-TIGHT","10.3501","2.5500","90","0402 6 pF 50 V ±0.5 pF Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor"
+"C8","2.2uF","TopLayer","0402-TIGHT","7.0501","2.5500","270","Multilayer Ceramic Capacitor, 2.2 uF, 10 V, ± 10%, X5R, 0402 [1005 Metric]"
+"C11","47nF","TopLayer","0402-TIGHT","9.8380","6.0491","0","CAP CER 0.047UF 16V 10% X7R 0402"
+"C12","1.0uF","TopLayer","0402-TIGHT","1.3501","2.4499","270","Multilayer Ceramic Capacitor, 1 uF, 6.3 V, ± 10%, X7R, 0402 [1005 Metric]"
+"C13","1.0uF","TopLayer","0402-TIGHT","9.8499","7.8499","0","Multilayer Ceramic Capacitor, 1 uF, 6.3 V, ± 10%, X7R, 0402 [1005 Metric]"
+"C14","1.0uF","TopLayer","0402-TIGHT","2.3501","7.1499","180","Multilayer Ceramic Capacitor, 1 uF, 6.3 V, ± 10%, X7R, 0402 [1005 Metric]"
+"C15","1.0uF","TopLayer","0402-TIGHT","9.8499","6.9500","0","Multilayer Ceramic Capacitor, 1 uF, 6.3 V, ± 10%, X7R, 0402 [1005 Metric]"
+"C16","2.2uF","TopLayer","0402-TIGHT","2.1499","2.4499","270","Multilayer Ceramic Capacitor, 2.2 uF, 10 V, ± 10%, X5R, 0402 [1005 Metric]"
+"C17","DNP","TopLayer","0402-TIGHT","9.3709","4.7730","90","DNP"
+"C18","0.5pF","TopLayer","0402-TIGHT","10.6500","5.2500","180","Multilayer Ceramic Capacitor, 0.5 pF, 50 V, ± 0.25pF, C0G (NP0), 0402 [1005 Metric]"
+"L1","2.2µH","TopLayer","0805-WIDE","2.2500","4.6500","90","Inductor Power Shielded Wirewound 2.2uH 20% 1MHz Metal 1.7A 0.14Ohm DCR 0806 T/R"
+"L2","1.0uH","TopLayer","0805-WIDE","5.4499","2.5500","0","Inductor Power Chip Shielded Multi-Layer 1uH 20% 1MHz Ferrite 1.6A 0.107Ohm DCR 0805 T/R"
+"L3","2.7nH 900mA 70 mOhm","TopLayer","0402-TIGHT","10.6500","4.2500","0","IND 2.7NH 900MA 70 MOHM"
+"L4","2nH 900mA 120mOhm","TopLayer","0402-TIGHT","12.0501","8.2500","0","FIXED IND 2NH 900MA 120 MOHM SMD"
+"R2","0","TopLayer","0402-TIGHT","2.9500","2.4499","270","Res Thick Film 0402 0 Ohm Jumper Molded SMD Paper T/R"
+"U1","AMBIQ-APOLLO3-PLUS","TopLayer","BGA-104-5.3X4.3MM_-_SPRITE-MIXED-0.2-0.19","6.1301","6.7501","90","Apollo3 Blue Plus 96 MHz Cortex M4F, 2048 KB Flash, 768 KB RAM, BLE 5, BGA"
+"Y1","32MHz","TopLayer","CRYSTAL-SMD-2.0X1.6MM","8.7501","2.5500","180","Crystal 32 Mhz 6PF SMD"
