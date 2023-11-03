@@ -1,4 +1,4 @@
-# Sapphire Circuits Ambiq Apollo3 Plus Arduino Core
+# Sapphire Circuits Artemis Plus Module
 
 This is a remix of the Sparkfun Artemis module.  It is module pin-for-pin backward compatible with the original module except it has twice the Flash and RAM memory.
 
